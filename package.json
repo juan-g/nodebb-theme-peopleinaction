@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-peopleinaction",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "People in Action Community theme",
   "main": "theme.less",
   "keywords": [
 
